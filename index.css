@@ -1,0 +1,38 @@
+body {
+	font: 'Helvetica';
+	margin: 0;
+	text-align: center;
+}
+
+#header {
+	height: 500px;
+	background-image: url("print.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+	padding-top: 100px;
+	color: white;
+	font-size: 76px;
+	margin-bottom: 0px;
+	font-weight: bolder;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+}
+
+p {
+	display: inline-block;
+	color: black;
+	padding: 20px;
+	background-color: white;
+	font-size: 24px;
+}
+
+#email {
+	margin-top: 20px;
+}
+
+
+
